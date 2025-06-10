@@ -7,7 +7,7 @@ os.environ['PYTHONUTF8'] = '1'
 
 # 재생목록 리스트
 yt_list = [
-    'PL9o8K8xhaQ_COx7JmfkVOUhwVD43qjFps'
+    'PLjj5QK2aFwtxvqUCAhTywPry4Znd0bBU4'
 ]
 
 # 다운로드 경로
